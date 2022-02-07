@@ -1,1 +1,3 @@
 # projects
+
+# Some of the projects I have done along the way...
